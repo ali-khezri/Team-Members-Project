@@ -55,5 +55,3 @@ https://team-member-showcase-project.netlify.app/
 📌 [GitHub Profile](https://github.com/ali-khezri) | [LinkedIn](https://www.linkedin.com/in/ali-khezri)
 
 ---
-می‌خوای برات یک **نسخه با GitHub Pages live demo badge** هم بسازم که مستقیم توی README لینک بده به دموی آنلاین؟
-```
