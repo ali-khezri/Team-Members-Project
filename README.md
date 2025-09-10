@@ -34,7 +34,7 @@ https://team-member-showcase-project.netlify.app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Team-Member-Showcase.git
+   git clone https://github.com/ali-khezri/Team-Member-Showcase.git
    ```
 2. Open `index.html` in your browser.
 3. Explore the team showcase cards with responsive design.
